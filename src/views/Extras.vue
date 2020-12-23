@@ -3,7 +3,7 @@
     <h1>Extras</h1>
     <div class="content">
       <p>
-        Bla bla bla.
+        Bla bla blu blu.
       </p>
     </div>
   </div>
