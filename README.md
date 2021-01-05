@@ -1,8 +1,8 @@
-# Contributing to the Virtual Developers Conference 2020 website
+# Contributing to the Virtual Developers Conference 2021 website
 
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
-The following is a set of guidelines for contributing to Virtual Developers Conference 2020. These are mostly guidelines, not rules. 
+The following is a set of guidelines for contributing to Developers Conference 2020. These are mostly guidelines, not rules. 
 Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 # Goals
@@ -12,7 +12,7 @@ Use your best judgment, and feel free to propose changes to this document in a p
 
 # 1 Theme : Comics
 
-[![Virtual Developers Conference 2020](https://conference.mscc.mu/github_thumbnail.png)](https://conference.mscc.mu/)
+[![Developers Conference 2021](https://conference.mscc.mu/github_thumbnail.png)](https://conference.mscc.mu/)
 
 # 2 Read the file below for how to contribute to this website.
 
