@@ -9,6 +9,8 @@ Vue.use(VModal);
 import VTooltip from "v-tooltip";
 Vue.use(VTooltip);
 
+import './assets/tailwind.css'
+
 Vue.config.productionTip = false;
 
 new Vue({

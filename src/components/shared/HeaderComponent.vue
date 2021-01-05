@@ -8,7 +8,7 @@
               <img src="/MSCC-logo-inverted.svg" alt="MSCC logo" />
             </div>
             <h1 class="text">
-              Virtual Developers Conference
+              Developers Conference
               <span class="year">2021</span>
             </h1>
           </router-link>
