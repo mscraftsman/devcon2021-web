@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "highlight.js": ">=10.4.1",
     "normalize.css": "^8.0.1",
     "svg-to-vue-component": "^0.3.8",
     "v-tooltip": "^2.0.3",

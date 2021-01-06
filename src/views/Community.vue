@@ -30,6 +30,31 @@
         organisers.
       </p>
 
+      <h2>Linux User Group of Mauritius</h2>
+      <p>
+        The Linux User of Mauritius or as commonly called LUGM, is perhaps the
+        oldest user group of the island. It re-groups Linux users from different
+        corners of the island. Their main activities are organising Linux
+        installation festivals and helping users with common *nix troubleshooting.
+        LUGM members often speak at local events about open source software.
+      </p>
+
+      <h2>openSUSE Mauritius</h2>
+      <p>
+        A group of openSUSE users that manage the opensuse.mu blog. They mainly
+        write about tweaks and fixes for the different versions of openSUSE. They
+        also bring news from the openSUSE community. Feel free to wave at the green
+        geekos during the conference, you may identify them with their chameleon
+        t-shirts or with gecko plushes hanging around the conference venue.
+      </p>
+
+      <h2>Ubuntu Mauritius</h2>
+      <p>
+        The Ubuntu LoCo team is undergoing a revival after being dormant for some
+        years. Ubuntu users and welcomed to <a href="https://loco.ubuntu.com/teams/ubuntu-mu/">
+        join the group</a> on the Ubuntu loco team portal.
+      </p>
+
       <h2>The Less Quick Version</h2>
       <p>
         Harassment includes offensive verbal comments related to gender, gender

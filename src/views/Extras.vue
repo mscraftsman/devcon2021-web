@@ -3,7 +3,7 @@
     <h1>Extras</h1>
     <div class="content">
       <p>
-        Bla bla blu blu.
+        Further details about extras will be published soon.
       </p>
     </div>
   </div>
