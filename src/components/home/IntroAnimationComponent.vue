@@ -5,7 +5,7 @@
         class="meta-title"
       >
         <div class="meta-title__location">Caudan Arts Centre</div>
-        <div class="meta-title__period font-black">2 - 4 April 2021</div>
+        <div class="meta-title__period font-black">18 - 20 March 2021</div>
       </div>
       <h1 class="title">
         Developers <span class="text-block">Conference 2021</span>
