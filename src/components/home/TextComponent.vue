@@ -6,18 +6,18 @@
         <h2 class="title">The Developers Conference 2021</h2>
         <div class="content">
           <p>
-            As you are aware, the Developers Conference 2020 was revamped 
-            to a Virtual Developers Conference 2020 due to the COVID-19 pandemic 
+            As you are aware, the Developers Conference 2021 was revamped 
+            to a Developers Conference 2021 due to the COVID-19 pandemic 
             that hit the whole world. We are blessed that the pandemic did not 
             have as much of an impact on the IT industry as compared to other work 
             sectors. Due to various lock downs, travel bans or quarantine periods,
-            we had no choice than to postpone the annual Developers Conference 2020 
+            we had no choice than to postpone the annual Developers Conference 2021 
             to March 2021.
           </p>
           <p>
             Being the largest IT Community in Mauritius, we are so passionate about 
             the tech world that doing the Developers Conference is a must. With the 
-            Virtual Conference, we missed the human touch behind the whole event 
+            Conference, we missed the human touch behind the whole event 
             where people exchange and interact with each other. Nonetheless your 
             safety being our main concern and depending on the latest updates 
             precautionary measures will be put in practice.
