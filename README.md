@@ -12,7 +12,7 @@ Use your best judgment, and feel free to propose changes to this document in a p
 
 # 1 Theme : Comics
 
-[![Developers Conference 2021](https://conference.mscc.mu/github_thumbnail.png)](https://conference.mscc.mu/)
+[![Developers Conference 2021](https://conference.mscc.mu/github_thumbnail.jpg)](https://conference.mscc.mu/)
 
 # 2 Read the file below for how to contribute to this website.
 
