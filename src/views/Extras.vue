@@ -5,6 +5,7 @@
       <h2>Caricature Artists</h2>
       <h3>Bhashnee Isnoo</h3>
       <p>
+        <img class="caricature-artist" src="/images/artists/bhashnee-isnoo.jpg" />
         Hello! I’m Bhashnee Isnoo! I’m in my last year of University doing 
         a BSc (Hons) in Advertising and Visual Communication. I really enjoy 
         doing illustrations and I’m planning on doing that as a profession. 
@@ -27,6 +28,7 @@
       <h2>Plush Dolls Artist</h2>
       <h3>Kyky Otaku</h3>
       <p>
+        <img class="plushdoll-artist" src="/images/artists/kyky-otaku.jpg" />
         Hi, my name is Sabrina a.k.a Kyky (entrepreneur) 28 years old, art passionate 
         and owner of Kyky Otaku. 
       </p>
@@ -91,5 +93,26 @@
       color: var(--titanium);
     }
   }
+
+  .caricature-artist {
+    margin: 0 auto;
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    max-width: 200px;
+    width: 100%;
+    float: right;
+    display: inline;
+  }
+
+  .plushdoll-artist {
+    margin: 0 auto;
+    padding-top: 0.5rem;
+    padding-right: 0.75rem;
+    max-width: 200px;
+    width: 100%;
+    float: left;
+    display: inline;
+  }
+
 }
 </style>
