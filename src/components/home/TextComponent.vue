@@ -56,7 +56,7 @@ export default {};
   // }
 
   .content {
-    text-align: left;
+    text-align: center;
 
     p {
       font-weight: 300;
