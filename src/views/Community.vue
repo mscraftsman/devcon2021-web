@@ -108,7 +108,7 @@
          of Mauritius. Our aim is to provide opportunities to everybody to upskill 
          their level of Python and to ease industry-adoption of Python-related 
          technologies. A nice overview of the User Group can be found on the MSCC 
-         website here. To sum it up, we care about Python education. 
+         blog <a href="https://www.mscc.mu/python-mauritius-usergroup-pymug/">here</a>. To sum it up, we care about Python education. 
          Our website: <a href="https://www.pymug.com">pymug.com</a>
       </p>
 
@@ -117,9 +117,9 @@
       </p>
 
       <p>
-         The Pymug organises year-round events. Topic days, meetups, from scratch 
-         sessions as well as University topic coverage. Have a look at our 2019 
-         report. 
+         The Pymug organises year-round events, topic days, meetups, from scratch 
+         sessions as well as university topic coverage. Have a look at our <a href="https://www.pymug.com/assets/pymug_2019_report.pdf">2019</a> or <a href="https://www.pymug.com/assets/pymug_end_of_year_2020_v2.pdf">2020</a>
+         end of year reports. Looking forward to meet you ✨.
       </p>
     </div>
   </div>
@@ -157,6 +157,9 @@
     a {
       color: var(--titanium);
     }
+  }
+  .content{
+    padding-bottom: 200px;
   }
 }
 </style>
