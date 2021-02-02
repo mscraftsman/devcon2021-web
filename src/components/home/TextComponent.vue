@@ -6,27 +6,31 @@
         <h2 class="title">The Developers Conference 2021</h2>
         <div class="content">
           <p>
-            As you are aware, the Developers Conference 2021 was revamped 
-            to a Developers Conference 2021 due to the COVID-19 pandemic 
-            that hit the whole world. We are blessed that the pandemic did not 
-            have as much of an impact on the IT industry as compared to other work 
-            sectors. Due to various lock downs, travel bans or quarantine periods,
-            we had no choice than to postpone the annual Developers Conference 2021 
-            to March 2021.
+           It is with great regret that we announce that despite being a COVID free island 
+           we have no choice but to postpone the Developers Conference 2021 following 
+           recent updates regarding the COVID-19 situation.
           </p>
           <p>
-            Being the largest IT Community in Mauritius, we are so passionate about 
-            the tech world that doing the Developers Conference is a must. With the 
-            Conference, we missed the human touch behind the whole event 
-            where people exchange and interact with each other. Nonetheless your 
-            safety being our main concern and depending on the latest updates 
-            precautionary measures will be put in practice.
+           The media recently announced that under the Quarantine Act 2020 only approved 
+           aircrafts and ships would be able to enter the Mauritian territories and the
+           imposed quarantine period for all travellers would be extended to the 31st 
+           March 2021. The travel restrictions and quarantine procedures imposed by the 
+           Government make it difficult for our international sponsors & speakers to be 
+           present.
           </p>
           <p>
-            Mark your calendar, save the dates and join us for the Developers Conference 
-            2021 with multiple sessions over 3 whole days of technical geekery as well 
-            as evening entertainments. Come and meet our Partners for recruitment and 
-            internship at their different booths. And let's have fun!
+           Unfortunately, we do not yet have set dates for when the Developers Conference 
+           will take place, but rest reassured that the event is in no way cancelled just 
+           reported to an unknown date for now. Our team is following the situation 
+           closely and as soon as an agreed date is set, we will be informing you of our 
+           decision.
+          </p>
+          <p>
+           We would like to thank our partners once again for bearing with us and 
+           supporting us during these difficult times.
+          </p>
+          <p>
+           However, do stay tuned because we have some interesting news coming up soon! 😉
           </p>
         </div>
       </div>
