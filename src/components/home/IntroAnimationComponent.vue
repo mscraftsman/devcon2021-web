@@ -5,18 +5,18 @@
         class="meta-title"
       >
         <div class="meta-title__location">Caudan Arts Centre</div>
-        <div class="meta-title__period font-black">18 - 20 March 2021</div>
+        <div class="meta-title__period font-black">1̶8̶ ̶-̶ ̶2̶0̶ ̶M̶a̶r̶c̶h̶ ̶2̶0̶2̶1̶</div>
       </div>
       <h1 class="title">
         Developers <span class="text-block">Conference 2021</span>
       </h1>
       <div class="button-wrapper flex">
         <a
-          href="https://www.meetup.com/MauritiusSoftwareCraftsmanshipCommunity/events/268265742/"
+          href="https://www.meetup.com/MauritiusSoftwareCraftsmanshipCommunity/messages/boards/thread/53119456"
           target="_blank"
           class="meta-title__sub"
         >
-          Register now
+          Postponed
         </a>
       </div>
     </div>
