@@ -2,35 +2,26 @@
   <section class="sponsor-section-wrapper mb-24 pb-32">
     <!-- title -->
     <div class="title__container pt-32 mb-24">
-      <div class="bg__asset">
-        <!-- <img src="/images/home-sponsors/red-bg.svg"
-             alt /> -->
-      </div>
-      <div class="title__wrapper pt-12">
-        <h2 class="title section-title leading-none text-5xl">Sponsors</h2>
-        <!-- <div class="title__sub font-hulksmash">Backed by some big players of the industry</div> -->
-      </div>
-    </div>
-
-    <div class="container mx-auto">
-      <SponsorList
-        v-for="(group, index) in sponsorsGroups"
-        :key="index"
-        :sponsors="group"
-        :tier="index"
-      />
-    </div>
-
-    <!-- <div class="become__sponsor__container mt-16 pb-16">
-      <a href="#"
-         class="become__sponsor__button">
-        <div class="bg__asset">
-          <img src="/images/home-sponsors/become-sponsor-bg.svg"
-               alt />
+      <div class="title__section">
+        <div class="sub-text">Become one of our sponsors</div>
+        <h2 class="title">Sponsorship</h2>
+        <div class="content">
+          <p>
+           Text coming up
+          </p>
         </div>
-        <div class="text">Become a sponsor</div>
+      </div>
+    </div>
+
+    <div class="button-wrapper flex">
+      <a
+        href="https://sessionize.com/developers-conference-2021---mau/"
+        target="_blank"
+        class="meta-title__sub"
+      >
+        Call for papers
       </a>
-    </div> -->
+    </div>
   </section>
 </template>
 
@@ -39,10 +30,10 @@ import { mapState } from "vuex";
 
 import { groupBy, sortBy } from "@/helpers";
 
-import SponsorList from "@/components/sponsor-list.vue";
+// import SponsorList from "@/components/sponsor-list.vue";
 export default {
   components: {
-    SponsorList
+    // SponsorList
   },
 
   computed: {
@@ -180,82 +171,87 @@ export default {
   }
 }
 
+.button-wrapper a {
+  transform: skewX(-10deg);
+  box-shadow: 4px 4px 0 0px #000;
+}
+
 .section-title {
   position: relative;
 }
 
-.section-title:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: 125%;
-  height: 125%;
-  transform: translate(-9.5%, -9.5%) skew(-7deg);
-  border: 0.25rem solid black;
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-  padding: 0.5rem 2rem;
-}
+// .section-title:after {
+//   content: "";
+//   position: absolute;
+//   left: 0;
+//   right: 0;
+//   top: 0;
+//   bottom: 0;
+//   width: 125%;
+//   height: 125%;
+//   transform: translate(-9.5%, -9.5%) skew(-7deg);
+//   border: 0.25rem solid black;
+//   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+//   padding: 0.5rem 2rem;
+// }
 
-.title__container {
-  position: relative;
-  width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr;
+// .title__container {
+//   position: relative;
+//   width: 100%;
+//   display: grid;
+//   grid-template-columns: 1fr 1fr;
+//   grid-template-rows: 1fr;
 
-  .bg__asset {
-    grid-row: 1 / 1;
-    grid-column: 1 / 3;
-    text-align: center;
-    z-index: 1;
+//   .bg__asset {
+//     grid-row: 1 / 1;
+//     grid-column: 1 / 3;
+//     text-align: center;
+//     z-index: 1;
 
-    img {
-      margin: 0 auto;
-      width: 500px;
-      transform: rotate(-10deg);
-    }
-  }
+//     img {
+//       margin: 0 auto;
+//       width: 500px;
+//       transform: rotate(-10deg);
+//     }
+//   }
 
-  .title__wrapper {
-    text-align: center;
-    grid-row: 1 / 1;
-    grid-column: 1 / 3;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin-top: -50px;
-    z-index: 2;
+//   .title__wrapper {
+//     text-align: center;
+//     grid-row: 1 / 1;
+//     grid-column: 1 / 3;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     flex-direction: column;
+//     margin-top: -50px;
+//     z-index: 2;
 
-    .title {
-      // font-size: 60px;
-      // line-height: 60px;
-      margin: 0;
-      // color: white;
-      // text-shadow: 3px 3px 0 rgba(0, 0, 0, 1);
-      margin-bottom: 5px;
-      letter-spacing: -0.2px;
-      @apply text-6xl;
-    }
+//     .title {
+//       // font-size: 60px;
+//       // line-height: 60px;
+//       margin: 0;
+//       // color: white;
+//       // text-shadow: 3px 3px 0 rgba(0, 0, 0, 1);
+//       margin-bottom: 5px;
+//       letter-spacing: -0.2px;
+//       @apply text-6xl;
+//     }
 
-    .title__sub {
-      color: rgb(255, 236, 126);
-      // @apply font-robotocondensed;
-      @apply font-hairline;
-      font-style: italic;
-      font-weight: bold;
-      font-size: 25px;
-      letter-spacing: 2px;
-      line-height: 26px;
-      text-align: center;
-      text-transform: uppercase;
-      text-shadow: 2px 2px 0px #000000;
-    }
-  }
-}
+//     .title__sub {
+//       color: rgb(255, 236, 126);
+//       // @apply font-robotocondensed;
+//       @apply font-hairline;
+//       font-style: italic;
+//       font-weight: bold;
+//       font-size: 25px;
+//       letter-spacing: 2px;
+//       line-height: 26px;
+//       text-align: center;
+//       text-transform: uppercase;
+//       text-shadow: 2px 2px 0px #000000;
+//     }
+//   }
+// }
 
 .become__sponsor__container {
   .become__sponsor__button {

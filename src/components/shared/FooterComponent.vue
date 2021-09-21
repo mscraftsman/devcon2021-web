@@ -37,9 +37,9 @@
               <li>
                 <router-link :to="{ name: 'Code' }">Code of Conduct</router-link>
               </li>
-              <li>
+              <!-- <li>
                 <a href="https://bit.ly/RegDevCon" target="_blank" rel="noopener noreferrer" class="header__button">Register</a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>

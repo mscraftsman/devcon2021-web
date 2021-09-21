@@ -5,18 +5,18 @@
         class="meta-title"
       >
         <div class="meta-title__location">Caudan Arts Centre</div>
-        <div class="meta-title__period font-black">1̶8̶ ̶-̶ ̶2̶0̶ ̶M̶a̶r̶c̶h̶ ̶2̶0̶2̶1̶</div>
+        <div class="meta-title__period font-black">17 - 19 February 2022</div>
       </div>
       <h1 class="title">
-        Developers <span class="text-block">Conference 2021</span>
+        Developers <span class="text-block">Conference 2022</span>
       </h1>
       <div class="button-wrapper flex">
         <a
-          href="https://www.meetup.com/MauritiusSoftwareCraftsmanshipCommunity/messages/boards/thread/53119456"
+          href="https://sessionize.com/developers-conference-2021---mau/"
           target="_blank"
           class="meta-title__sub"
         >
-          Postponed
+          Call for papers
         </a>
       </div>
     </div>

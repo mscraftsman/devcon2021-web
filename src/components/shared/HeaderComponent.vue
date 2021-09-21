@@ -9,20 +9,21 @@
             </div>
             <h1 class="text">
               Developers Conference
-              <span class="year">2021</span>
+              <span class="year">2022</span>
             </h1>
           </router-link>
         </div>
         <div class="right__block">
-          <router-link :to="{ name: 'Agenda' }" class="header__button light">Agenda</router-link>
+          <!-- <router-link :to="{ name: 'Agenda' }" class="header__button light">Agenda</router-link>
           <router-link :to="{ name: 'Community' }" class="header__button light">Community</router-link>
           <router-link :to="{ name: 'Extras' }" class="header__button light">Extras</router-link>
-          <a
+           --> 
+           <a
             href="https://bit.ly/RegDevCon"
             target="_blank"
             rel="noopener noreferrer"
             class="header__button"
-          >Register</a>
+          >Become a Sponsor</a>
         </div>
       </div>
     </div>
@@ -100,12 +101,12 @@ export default {};
     text-decoration: none;
     font-size: 23px;
     margin-right: 10px;
-    width: 120px;
+    width: 180px;
 
     &.light {
       background: var(--titanium);
       color: white;
-      width: 170px;
+      width: 130px;
     }
   }
 
