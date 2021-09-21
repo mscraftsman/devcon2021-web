@@ -19,10 +19,10 @@
           <router-link :to="{ name: 'Extras' }" class="header__button light">Extras</router-link>
            --> 
            <a
-            href="https://bit.ly/RegDevCon"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
-            class="header__button"
+            class="header__button light"
           >Become a Sponsor</a>
         </div>
       </div>
@@ -106,7 +106,7 @@ export default {};
     &.light {
       background: var(--titanium);
       color: white;
-      width: 130px;
+      width: 180px;
     }
   }
 
