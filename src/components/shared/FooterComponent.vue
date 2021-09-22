@@ -11,7 +11,7 @@
         <div class="footer__content">
           <div class="top__wrapper">
             <div class="image">
-              <img src="/MSCC-logo-inverted.svg" alt="City Skyline" />
+              <img src="/mscc-logo-inverted.svg" alt="MSCC" />
               <div class="mscc">Mauritius Software Craftsmanship Community</div>
             </div>
             <div class="social">
@@ -119,12 +119,15 @@ export default {};
     }
 
     .bottom__wrapper {
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
       ul {
         display: inline-block;
         text-align: center;
         margin: 0;
         padding: 0;
         width: 100%;
+        margin-top: 30px;
+        padding-top: 10px;
 
         li {
           display: inline-block;

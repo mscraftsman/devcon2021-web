@@ -389,6 +389,11 @@ export default {};
 
         img {
           width: 70%;
+          transition: all 0.2s ease-in-out;
+
+          &:hover {
+            transform: scale(1.07);
+          }
         }
 
         a {

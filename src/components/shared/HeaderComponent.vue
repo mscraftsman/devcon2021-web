@@ -19,7 +19,7 @@
           <router-link :to="{ name: 'Extras' }" class="header__button light">Extras</router-link>
            --> 
            <a
-            href="/"
+            href="https://drive.google.com/file/d/1la2rZ_Yu8ApcTKLowipEsP_3xi_DjJBe/view"
             target="_blank"
             rel="noopener noreferrer"
             class="header__button light"
