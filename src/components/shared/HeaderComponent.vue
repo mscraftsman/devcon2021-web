@@ -11,6 +11,10 @@
               Developers Conference
               <span class="year">2022</span>
             </h1>
+            <h1 class="text mobile">
+              DevConMu
+              <span class="year">2022</span>
+            </h1>
           </router-link>
         </div>
         <div class="right__block">
@@ -81,6 +85,14 @@ export default {};
       margin: 0;
       font-size: 32px;
       font-weight: 300;
+
+      &.mobile {
+        display: none;
+        
+        .year {
+          display: block;
+        }
+      }
     }
   }
 
@@ -134,14 +146,25 @@ export default {};
     .logo {
       .text {
         font-size: 20px;
+        display: none;
+
+        &.mobile {
+          display: block;
+        }
       }
     }
 
     .inner__grid {
-      grid-template-columns: 1fr;
+      grid-template-columns: 1.5fr 1fr;
 
       .right__block {
-        display: none;
+      }
+    }
+
+    .header__button {
+      &.light {
+        width: 140px;
+        font-size: 17px;
       }
     }
   }

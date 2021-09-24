@@ -11,7 +11,7 @@
         <div class="footer__content">
           <div class="top__wrapper">
             <div class="image">
-              <img src="/mscc-logo-inverted.svg" alt="MSCC" />
+              <a href="https://mscc.mu"><img src="/mscc-logo-inverted.svg" alt="MSCC" /></a>
               <div class="mscc">Mauritius Software Craftsmanship Community</div>
             </div>
             <div class="social">
