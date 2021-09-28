@@ -18,7 +18,7 @@
                   <img src="/funding/liquid-telecom.png" alt="Liquid Telecom" />
                 </a>
               </div>
-              <div class="item white-bg">
+              <div class="item white-bg logo--mcb">
                 <a href="https://www.mcb.mu/" target="_blank" rel="noopener noreferrer">
                   <img src="/funding/mcb.png" alt="The Mauritius Commercial Bank" />
                 </a>
@@ -201,9 +201,9 @@
           <div class="group media">
             <div class="title-package media">Media Partner</div>
             <div class="funding">
-              <div class="item">
-                <a href="https://www.lsl.digital/" target="_blank" rel="noopener noreferrer">
-                  <img src="/funding/lsldigital.png" alt="LSL Digital" />
+              <div class="item logo--lasentinelle">
+                <a href="https://www.lasentinelle.mu/" target="_blank" rel="noopener noreferrer">
+                  <img src="/funding/lasentinelle.svg" alt="La Sentinelle Ltd." />
                 </a>
               </div>
               <div class="item">
@@ -385,7 +385,8 @@ export default {};
       .item {
         width: 20%;
         margin: 10px;
-        margin-bottom: calc(var(--gutter) / 1);
+        margin-top: calc(var(--gutter) / 1.5);
+        margin-bottom: var(--gutter);
 
         img {
           width: 70%;
@@ -403,6 +404,16 @@ export default {};
         &.white-bg {
           a {
             background: white;
+          }
+        }
+
+        &.logo--mcb {
+          margin: 0 50px;
+        }
+
+        &.logo--lasentinelle {
+          img {
+            width: 100%;
           }
         }
       }
