@@ -33,6 +33,11 @@
               <img src="/stones/space.png" alt="Space Stone" />
             </div>
             <div class="funding">
+              <div class="item white-bg logo--swan">
+                <a href="https://www.swanforlife.com" target="_blank" rel="noopener noreferrer">
+                  <img src="/funding/swan.png" alt="SWAN" />
+                </a>
+              </div>
               <div class="item">
                 <a href="https://www.providus.mu" target="_blank" rel="noopener noreferrer">
                   <img src="/funding/providus.png" alt="Providus" />
@@ -76,11 +81,6 @@
               <div class="item">
                 <a href="www.synthesis.co.za" target="_blank" rel="noopener noreferrer">
                   <img src="/funding/synthesis.png" alt="Synthesis" />
-                </a>
-              </div>
-              <div class="item white-bg">
-                <a href="https://www.swanforlife.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/funding/swan.png" alt="SWAN" />
                 </a>
               </div>
             </div>
@@ -317,6 +317,7 @@ export default {};
 
 .list {
   margin-top: 30px;
+
   .group {
     margin-bottom: 30px;
 
@@ -376,53 +377,12 @@ export default {};
         color: var(--dark);
       }
     }
-    .funding {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: center;
-
-      .item {
-        width: 20%;
-        margin: 10px;
-        margin-top: calc(var(--gutter) / 1.5);
-        margin-bottom: var(--gutter);
-
-        img {
-          width: 70%;
-          transition: all 0.2s ease-in-out;
-
-          &:hover {
-            transform: scale(1.07);
-          }
-        }
-
-        a {
-          display: block;
-        }
-
-        &.white-bg {
-          a {
-            background: white;
-          }
-        }
-
-        &.logo--mcb {
-          margin: 0 50px;
-        }
-
-        &.logo--lasentinelle {
-          img {
-            width: 100%;
-          }
-        }
-      }
-    }
 
     &.power {
       .funding {
         .item {
-          width: 23%;
+          // width: 23%;
+          max-width: 290px;
 
           img {
             width: 100%;
@@ -433,7 +393,7 @@ export default {};
     &.space {
       .funding {
         .item {
-          width: 28%;
+          // width: 28%;
 
           img {
             width: 100%;
@@ -488,6 +448,56 @@ export default {};
           width: 20%;
           img {
             width: 95%;
+          }
+        }
+      }
+    }
+
+    .funding {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+
+      .item {
+        width: 100%;
+        max-width: 320px;
+        margin: 10px;
+        margin-top: calc(var(--gutter) / 1.5);
+        margin-bottom: var(--gutter);
+
+        img {
+          width: 70%;
+          transition: all 0.2s ease-in-out;
+
+          &:hover {
+            transform: scale(1.07);
+          }
+        }
+
+        a {
+          display: block;
+        }
+
+        &.white-bg {
+          a {
+            background: white;
+          }
+        }
+
+        &.logo--mcb {
+          margin: 0 50px;
+        }
+
+        &.logo--lasentinelle {
+          img {
+            width: 100%;
+          }
+        }
+
+        &.logo--swan {
+          img {
+            width: 75%;
           }
         }
       }
