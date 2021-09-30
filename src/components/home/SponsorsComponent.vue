@@ -119,13 +119,13 @@
               <img src="/stones/time.png" alt="Time Stone" />
             </div>
             <div class="funding">
-              <div class="item">
+              <div class="item logo--uniciti">
                 <a
                   href="https://www.unicitieducationhub.com/institutions/higher-education/supinfo-international-university"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src="/funding/supinfo.png" alt="SUPINFO International" />
+                  <img src="/funding/uniciti.png" alt="Uniciti Education Hub" />
                 </a>
               </div>
             </div>
@@ -206,7 +206,7 @@
                   <img src="/funding/lasentinelle.svg" alt="La Sentinelle Ltd." />
                 </a>
               </div>
-              <div class="item">
+              <div class="item logo--ictio">
                 <a href="https://ict.io/" target="_blank" rel="noopener noreferrer">
                   <img src="/funding/ictio.png" alt="ict.io" />
                 </a>
@@ -491,13 +491,27 @@ export default {};
 
         &.logo--lasentinelle {
           img {
-            width: 100%;
+            width: 90%;
           }
         }
 
         &.logo--swan {
           img {
             width: 75%;
+          }
+        }
+
+        &.logo--ictio {
+          img {
+            height: 90px;
+            width: auto;
+          }
+        }
+
+        &.logo--uniciti {
+          img {
+            max-height: 70px;
+            width: auto;
           }
         }
       }
@@ -612,6 +626,30 @@ export default {};
 
         .text {
           margin: 0 20px;
+        }
+      }
+
+
+      .funding {
+        .item {
+          &.logo--mcb {
+          }
+
+          &.logo--lasentinelle {
+            img {
+            }
+          }
+
+          &.logo--swan {
+            img {
+            }
+          }
+
+          &.logo--ictio {
+            img {
+              height: 50px;
+            }
+          }
         }
       }
     }

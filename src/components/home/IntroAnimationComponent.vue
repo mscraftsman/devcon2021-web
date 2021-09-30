@@ -12,7 +12,7 @@
       </h1>
       <div class="button-wrapper flex">
         <a
-          href="https://sessionize.com/developers-conference-2021---mau/"
+          href="https://sessionize.com/developers-conference-2022---mauritius/"
           target="_blank"
           class="meta-title__sub"
         >
