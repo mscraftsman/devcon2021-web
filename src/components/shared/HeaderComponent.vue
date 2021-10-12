@@ -18,10 +18,9 @@
           </router-link>
         </div>
         <div class="right__block">
-          <!-- <router-link :to="{ name: 'Agenda' }" class="header__button light">Agenda</router-link>
+          <!-- <router-link :to="{ name: 'Agenda' }" class="header__button light">Agenda</router-link> -->
           <router-link :to="{ name: 'Community' }" class="header__button light">Community</router-link>
-          <router-link :to="{ name: 'Extras' }" class="header__button light">Extras</router-link>
-           --> 
+          <!-- <router-link :to="{ name: 'Extras' }" class="header__button light">Extras</router-link> -->
            <a
             href="https://drive.google.com/file/d/1fLhSAG_w5EpcKA_d6MpHgkLuWBCr9ArD/view"
             target="_blank"
@@ -88,7 +87,7 @@ export default {};
 
       &.mobile {
         display: none;
-        
+
         .year {
           display: block;
         }
