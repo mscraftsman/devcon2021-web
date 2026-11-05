@@ -3,34 +3,33 @@
     <div class="container__fw">
       <div class="title__section">
         <div class="sub-text">Innovation. Technology. Community.</div>
-        <h2 class="title">The Developers Conference 2021</h2>
+        <h2 class="title">The Developers Conference 2022</h2>
         <div class="content">
           <p>
-           It is with great regret that we announce that despite being a COVID free island 
-           we have no choice but to postpone the Developers Conference 2021 following 
-           recent updates regarding the COVID-19 situation.
+            As you are aware, we hosted a Virtual Developers Conference in 2020
+            due to the COVID-19 pandemic that hit the whole world. We are
+            blessed that the pandemic did not have as much of an impact on the
+            IT industry as compared to other work sectors. Due to various
+            lockdowns, travel bans and quarantine periods, we had no choice than
+            to postpone the annual Developers Conference from March 2021 to
+            February 2022.
           </p>
           <p>
-           The media recently announced that under the Quarantine Act 2020 only approved 
-           aircrafts and ships would be able to enter the Mauritian territories and the
-           imposed quarantine period for all travellers would be extended to the 31st 
-           March 2021. The travel restrictions and quarantine procedures imposed by the 
-           Government make it difficult for our international sponsors & speakers to be 
-           present.
+            Being the largest IT Community in Mauritius, we are so passionate
+            about the tech world that doing the Developers Conference is a must.
+            With the Virtual Conference, we missed the human touch where people
+            exchange and interact with each other. Nonetheless, your safety is
+            our main priority and we will be putting in place some precautionary
+            measures, following our government's recommendations, to ensure that
+            our conference can be held safely.
           </p>
           <p>
-           Unfortunately, we do not yet have set dates for when the Developers Conference 
-           will take place, but rest reassured that the event is in no way cancelled just 
-           reported to an unknown date for now. Our team is following the situation 
-           closely and as soon as an agreed date is set, we will be informing you of our 
-           decision.
-          </p>
-          <p>
-           We would like to thank our partners once again for bearing with us and 
-           supporting us during these difficult times.
-          </p>
-          <p>
-           However, do stay tuned because we have some interesting news coming up soon! 😉
+            Mark your calendar, save the dates and join us for the Developers
+            Conference 2022 with multiple sessions over 3 whole days of
+            technical geekery as well as various evening entertainments. Come
+            and meet our Partners for recruitment and internship opportunities
+            at their different booths. We have some surprises also in store for
+            you! So, come, and let’s have some fun!
           </p>
         </div>
       </div>
@@ -44,7 +43,7 @@ export default {};
 
 <style lang="scss" scoped>
 .text__container {
-  padding: 60px 0 200px;
+  padding: 60px 0 100px;
   text-align: left;
   // background: url("/cloud-right.svg");
   // background-position: bottom right;

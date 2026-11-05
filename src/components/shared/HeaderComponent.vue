@@ -9,20 +9,27 @@
             </div>
             <h1 class="text">
               Developers Conference
-              <span class="year">2021</span>
+              <span class="year">2022</span>
+            </h1>
+            <h1 class="text mobile">
+              DevConMu
+              <span class="year">2022</span>
             </h1>
           </router-link>
         </div>
         <div class="right__block">
-          <router-link :to="{ name: 'Agenda' }" class="header__button light">Agenda</router-link>
-          <router-link :to="{ name: 'Community' }" class="header__button light">Community</router-link>
-          <router-link :to="{ name: 'Extras' }" class="header__button light">Extras</router-link>
+          <!-- <router-link :to="{ name: 'Agenda' }" class="header__button light">Agenda</router-link> -->
+          <router-link :to="{ name: 'Community' }" class="header__button light"
+            >Community</router-link
+          >
+          <!-- <router-link :to="{ name: 'Extras' }" class="header__button light">Extras</router-link> -->
           <a
-            href="https://bit.ly/RegDevCon"
+            href="https://drive.google.com/file/d/1fLhSAG_w5EpcKA_d6MpHgkLuWBCr9ArD/view"
             target="_blank"
             rel="noopener noreferrer"
-            class="header__button"
-          >Register</a>
+            class="header__button light"
+            >Become a Sponsor</a
+          >
         </div>
       </div>
     </div>
@@ -80,6 +87,14 @@ export default {};
       margin: 0;
       font-size: 32px;
       font-weight: 300;
+
+      &.mobile {
+        display: none;
+
+        .year {
+          display: block;
+        }
+      }
     }
   }
 
@@ -100,12 +115,12 @@ export default {};
     text-decoration: none;
     font-size: 23px;
     margin-right: 10px;
-    width: 120px;
+    width: 180px;
 
     &.light {
       background: var(--titanium);
       color: white;
-      width: 170px;
+      width: 180px;
     }
   }
 
@@ -133,14 +148,25 @@ export default {};
     .logo {
       .text {
         font-size: 20px;
+        display: none;
+
+        &.mobile {
+          display: block;
+        }
       }
     }
 
     .inner__grid {
-      grid-template-columns: 1fr;
+      grid-template-columns: 1.5fr 1fr;
 
       .right__block {
-        display: none;
+      }
+    }
+
+    .header__button {
+      &.light {
+        width: 140px;
+        font-size: 17px;
       }
     }
   }

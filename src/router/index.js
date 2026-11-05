@@ -13,21 +13,17 @@ const routes = [
   {
     path: "/agenda",
     name: "Agenda",
-    component: () =>
-      import("../views/Agenda.vue")
-
+    component: () => import("../views/Agenda.vue")
   },
   {
     path: "/community",
     name: "Community",
-    component: () =>
-      import("../views/Community.vue")
+    component: () => import("../views/Community.vue")
   },
   {
     path: "/extras",
     name: "Extras",
-    component: () =>
-      import("../views/Extras.vue")
+    component: () => import("../views/Extras.vue")
   },
   {
     path: "/code-of-conduct",
@@ -43,7 +39,10 @@ const routes = [
 const router = new VueRouter({
   mode: "history",
   base: process.env.BASE_URL,
-  routes
+  routes,
+  scrollBehavior() {
+    return { x: 0, y: 0 };
+  }
 });
 
 export default router;

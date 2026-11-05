@@ -1,5 +1,5 @@
 <template>
-  <div class="sponsors__container">
+  <div class="funding__container">
     <div class="container__fw">
       <div class="title__section">
         <div class="sub-text">WE'RE BACKED BY SOME BIG PLAYERS!</div>
@@ -12,15 +12,26 @@
               <div class="text">Power stone (Diamond)</div>
               <img src="/stones/power.png" alt="Power Stone" />
             </div>
-            <div class="sponsors">
+            <div class="funding">
               <div class="item">
-                <a href="https://www.liquidtelecom.com/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/liquid-telecom.png" alt="Liquid Telecom" />
+                <a
+                  href="https://www.liquidtelecom.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/liquid-telecom.png" alt="Liquid Telecom" />
                 </a>
               </div>
-              <div class="item white-bg">
-                <a href="https://www.mcb.mu/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/mcb.png" alt="The Mauritius Commercial Bank" />
+              <div class="item white-bg logo--mcb">
+                <a
+                  href="https://www.mcb.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/funding/mcb.png"
+                    alt="The Mauritius Commercial Bank"
+                  />
                 </a>
               </div>
             </div>
@@ -32,10 +43,23 @@
               <div class="text">Space Stone (Titanium)</div>
               <img src="/stones/space.png" alt="Space Stone" />
             </div>
-            <div class="sponsors">
+            <div class="funding">
+              <div class="item white-bg logo--swan">
+                <a
+                  href="https://www.swanforlife.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/swan.png" alt="SWAN" />
+                </a>
+              </div>
               <div class="item">
-                <a href="https://www.providus.mu" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/providus.png" alt="Providus" />
+                <a
+                  href="https://www.providus.mu"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/providus.png" alt="Providus" />
                 </a>
               </div>
             </div>
@@ -47,40 +71,59 @@
               <div class="text">Reality Stone (Platinum)</div>
               <img src="/stones/reality.png" alt="Reality Stone" />
             </div>
-            <div class="sponsors">
+            <div class="funding">
               <div class="item">
-                <a href="https://www.sdworx.com/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/sd-worx.png" alt="SD Worx" />
+                <a
+                  href="https://www.sdworx.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/sd-worx.png" alt="SD Worx" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://teamonite.mu" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/teamonite.png" alt="Teamonite.mu" />
+                <a
+                  href="https://teamonite.mu"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/teamonite.png" alt="Teamonite.mu" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.9thbit.co.za" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/9thbit.png" alt="9th Bit" />
+                <a
+                  href="https://www.9thbit.co.za"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/9thbit.png" alt="9th Bit" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://eventstore.org" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/event-store.png" alt="Event Store" />
+                <a
+                  href="https://eventstore.org"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/event-store.png" alt="Event Store" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.iqera.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/iqera.png" alt="iQera" />
+                <a
+                  href="https://www.iqera.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/iqera.png" alt="iQera" />
                 </a>
               </div>
               <div class="item">
-                <a href="www.synthesis.co.za" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/synthesis.png" alt="Synthesis" />
-                </a>
-              </div>
-              <div class="item white-bg">
-                <a href="https://www.swanforlife.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/swan.png" alt="SWAN" />
+                <a
+                  href="https://www.synthesis.co.za"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/synthesis.png" alt="Synthesis" />
                 </a>
               </div>
             </div>
@@ -93,20 +136,32 @@
               <img src="/stones/soul.png" alt="Soul Stone" />
             </div>
 
-            <div class="sponsors">
+            <div class="funding">
               <div class="item">
-                <a href="https://corshamscience.com/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/corsham.png" alt="Corsham" />
+                <a
+                  href="https://corshamscience.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/corsham.png" alt="Corsham" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://group.net2be.com/about/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/nettobe.png" alt="NetToBe" />
+                <a
+                  href="https://group.net2be.com/about/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/nettobe.png" alt="NetToBe" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.spoonconsulting.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/spoon.png" alt="Spoon Consulting" />
+                <a
+                  href="https://www.spoonconsulting.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/spoon.png" alt="Spoon Consulting" />
                 </a>
               </div>
             </div>
@@ -118,14 +173,14 @@
               <div class="text">Time Stone (Silver)</div>
               <img src="/stones/time.png" alt="Time Stone" />
             </div>
-            <div class="sponsors">
-              <div class="item">
+            <div class="funding">
+              <div class="item logo--uniciti">
                 <a
                   href="https://www.unicitieducationhub.com/institutions/higher-education/supinfo-international-university"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src="/sponsors/supinfo.png" alt="SUPINFO International" />
+                  <img src="/funding/uniciti.png" alt="Uniciti Education Hub" />
                 </a>
               </div>
             </div>
@@ -137,35 +192,62 @@
               <div class="text">Mind Stone (Bronze)</div>
               <img src="/stones/mind.png" alt="Mind Stone" />
             </div>
-            <div class="sponsors">
+            <div class="funding">
               <div class="item">
-                <a href="https://www.aerow.group" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/aerow.png" alt="Aerow ECM" />
+                <a
+                  href="https://www.aerow.group"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/aerow.png" alt="Aerow ECM" />
                 </a>
               </div>
               <div class="item">
-                <a href="http://www.ncb.mu" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/ncb.png" alt="National Computer Board" />
+                <a
+                  href="http://www.ncb.mu"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/ncb.png" alt="National Computer Board" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.astek.mu/en/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/astek.png" alt="Astek Mauritius" />
+                <a
+                  href="https://www.astek.mu/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/astek.png" alt="Astek Mauritius" />
                 </a>
               </div>
               <div class="item">
-                <a href="http://www.ios.mu/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/ios.png" alt="IOS Indian Ocean Software Ltd" />
+                <a
+                  href="http://www.ios.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/funding/ios.png"
+                    alt="IOS Indian Ocean Software Ltd"
+                  />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.frci.net" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/frci.png" alt="FRCI" />
+                <a
+                  href="https://www.frci.net"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/frci.png" alt="FRCI" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.graphicstemple.io/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/gt.png" alt="Graphics Temple" />
+                <a
+                  href="https://www.graphicstemple.io/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/gt.png" alt="Graphics Temple" />
                 </a>
               </div>
             </div>
@@ -173,10 +255,10 @@
           <!-- 
           <div class="group happy">
             <div class="title-package happy">Happy Hour Partner</div>
-            <div class="sponsors">
+            <div class="funding">
               <div class="item">
                 <a href="" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/mscc.png" alt="MSCC" />
+                  <img src="/funding/mscc.png" alt="MSCC" />
                 </a>
               </div>
             </div>
@@ -184,15 +266,23 @@
 
           <div class="group speaker">
             <div class="title-package speaker">Speaker</div>
-            <div class="sponsors">
+            <div class="funding">
               <div class="item">
-                <a href="https://www.ceridian.com" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/ceridian.png" alt="Ceridian" />
+                <a
+                  href="https://www.ceridian.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/ceridian.png" alt="Ceridian" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://ringier.com/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/ringier.png" alt="ringier" />
+                <a
+                  href="https://ringier.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/ringier.png" alt="ringier" />
                 </a>
               </div>
             </div>
@@ -200,15 +290,26 @@
 
           <div class="group media">
             <div class="title-package media">Media Partner</div>
-            <div class="sponsors">
-              <div class="item">
-                <a href="https://www.lsl.digital/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/lsldigital.png" alt="LSL Digital" />
+            <div class="funding">
+              <div class="item logo--lasentinelle">
+                <a
+                  href="https://www.lasentinelle.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/funding/lasentinelle.svg"
+                    alt="La Sentinelle Ltd."
+                  />
                 </a>
               </div>
-              <div class="item">
-                <a href="https://ict.io/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/ictio.png" alt="ict.io" />
+              <div class="item logo--ictio">
+                <a
+                  href="https://ict.io/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/ictio.png" alt="ict.io" />
                 </a>
               </div>
             </div>
@@ -216,10 +317,14 @@
 
           <div class="group internet">
             <div class="title-package internet">Internet</div>
-            <div class="sponsors">
+            <div class="funding">
               <div class="item">
-                <a href="https://www.rogerscapital.mu/" target="_blank" rel="noopener noreferrer">
-                  <img src="/sponsors/rogers-capital.png" alt="Rogers Capital" />
+                <a
+                  href="https://www.rogerscapital.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src="/funding/rogers-capital.png" alt="Rogers Capital" />
                 </a>
               </div>
             </div>
@@ -235,7 +340,7 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-.sponsors__container {
+.funding__container {
   --size: 50px;
   --side-padding: 9%;
   --right-padding: calc(100% - var(--side-padding));
@@ -265,12 +370,12 @@ export default {};
     margin-bottom: 6vw;
     padding: 0;
     background: #fcfcfc;
-    background: url("/images/home-sponsors/powerstone.png"),
-      url("/images/home-sponsors/spacestone.png"),
-      url("/images/home-sponsors/realitystone.png"),
-      url("/images/home-sponsors/soulstone.png"),
-      url("/images/home-sponsors/timestone.png"),
-      url("/images/home-sponsors/mindstone.png");
+    background: url("/images/home-funding/powerstone.png"),
+      url("/images/home-funding/spacestone.png"),
+      url("/images/home-funding/realitystone.png"),
+      url("/images/home-funding/soulstone.png"),
+      url("/images/home-funding/timestone.png"),
+      url("/images/home-funding/mindstone.png");
 
     background-position: var(--side-padding) var(--power-y),
       var(--right-padding) var(--space-y), var(--side-padding) var(--reality-y),
@@ -317,6 +422,7 @@ export default {};
 
 .list {
   margin-top: 30px;
+
   .group {
     margin-bottom: 30px;
 
@@ -376,19 +482,102 @@ export default {};
         color: var(--dark);
       }
     }
-    .sponsors {
+
+    &.power {
+      .funding {
+        .item {
+          // width: 23%;
+          max-width: 290px;
+
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+    &.space {
+      .funding {
+        .item {
+          // width: 28%;
+
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+    &.reality {
+      .funding {
+        .item {
+          width: 22%;
+          img {
+            width: 85%;
+          }
+        }
+      }
+    }
+    &.soul {
+      .funding {
+        .item {
+          width: 20%;
+          img {
+            width: 93%;
+          }
+        }
+      }
+    }
+    &.time {
+      .funding {
+        .item {
+          width: 20%;
+          img {
+            width: 85%;
+          }
+        }
+      }
+    }
+    &.mind {
+      .funding {
+        .item {
+          width: 20%;
+          img {
+            width: 75%;
+          }
+        }
+      }
+    }
+
+    &.internet {
+      .funding {
+        .item {
+          width: 20%;
+          img {
+            width: 95%;
+          }
+        }
+      }
+    }
+
+    .funding {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       justify-content: center;
 
       .item {
-        width: 20%;
+        width: 100%;
+        max-width: 320px;
         margin: 10px;
-        margin-bottom: calc(var(--gutter) / 1);
+        margin-top: calc(var(--gutter) / 1.5);
+        margin-bottom: var(--gutter);
 
         img {
           width: 70%;
+          transition: all 0.2s ease-in-out;
+
+          &:hover {
+            transform: scale(1.07);
+          }
         }
 
         a {
@@ -400,78 +589,34 @@ export default {};
             background: white;
           }
         }
-      }
-    }
 
-    &.power {
-      .sponsors {
-        .item {
-          width: 23%;
+        &.logo--mcb {
+          margin: 0 50px;
+        }
 
+        &.logo--lasentinelle {
           img {
-            width: 100%;
+            width: 90%;
           }
         }
-      }
-    }
-    &.space {
-      .sponsors {
-        .item {
-          width: 28%;
 
-          img {
-            width: 100%;
-          }
-        }
-      }
-    }
-    &.reality {
-      .sponsors {
-        .item {
-          width: 22%;
-          img {
-            width: 85%;
-          }
-        }
-      }
-    }
-    &.soul {
-      .sponsors {
-        .item {
-          width: 20%;
-          img {
-            width: 93%;
-          }
-        }
-      }
-    }
-    &.time {
-      .sponsors {
-        .item {
-          width: 20%;
-          img {
-            width: 85%;
-          }
-        }
-      }
-    }
-    &.mind {
-      .sponsors {
-        .item {
-          width: 20%;
+        &.logo--swan {
           img {
             width: 75%;
           }
         }
-      }
-    }
 
-    &.internet {
-      .sponsors {
-        .item {
-          width: 20%;
+        &.logo--ictio {
           img {
-            width: 95%;
+            height: 90px;
+            width: auto;
+          }
+        }
+
+        &.logo--uniciti {
+          img {
+            max-height: 70px;
+            width: auto;
           }
         }
       }
@@ -490,7 +635,7 @@ export default {};
           margin: 0 20px;
         }
       }
-      .sponsors {
+      .funding {
         .item {
           width: 25%;
 
@@ -501,7 +646,7 @@ export default {};
       }
 
       &.power {
-        .sponsors {
+        .funding {
           .item {
             width: 40%;
 
@@ -512,7 +657,7 @@ export default {};
         }
       }
       &.space {
-        .sponsors {
+        .funding {
           .item {
             width: 40%;
 
@@ -523,7 +668,7 @@ export default {};
         }
       }
       &.reality {
-        .sponsors {
+        .funding {
           .item {
             width: 34%;
             img {
@@ -533,7 +678,7 @@ export default {};
         }
       }
       &.soul {
-        .sponsors {
+        .funding {
           .item {
             width: 32%;
             img {
@@ -543,7 +688,7 @@ export default {};
         }
       }
       &.time {
-        .sponsors {
+        .funding {
           .item {
             width: 35%;
             img {
@@ -553,7 +698,7 @@ export default {};
         }
       }
       &.mind {
-        .sponsors {
+        .funding {
           .item {
             width: 30%;
             img {
@@ -564,7 +709,7 @@ export default {};
       }
 
       &.internet {
-        .sponsors {
+        .funding {
           .item {
             width: 28%;
             img {
@@ -586,6 +731,29 @@ export default {};
 
         .text {
           margin: 0 20px;
+        }
+      }
+
+      .funding {
+        .item {
+          &.logo--mcb {
+          }
+
+          &.logo--lasentinelle {
+            img {
+            }
+          }
+
+          &.logo--swan {
+            img {
+            }
+          }
+
+          &.logo--ictio {
+            img {
+              height: 50px;
+            }
+          }
         }
       }
     }
