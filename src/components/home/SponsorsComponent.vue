@@ -14,13 +14,24 @@
             </div>
             <div class="funding">
               <div class="item">
-                <a href="https://www.liquidtelecom.com/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.liquidtelecom.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/liquid-telecom.png" alt="Liquid Telecom" />
                 </a>
               </div>
               <div class="item white-bg logo--mcb">
-                <a href="https://www.mcb.mu/" target="_blank" rel="noopener noreferrer">
-                  <img src="/funding/mcb.png" alt="The Mauritius Commercial Bank" />
+                <a
+                  href="https://www.mcb.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/funding/mcb.png"
+                    alt="The Mauritius Commercial Bank"
+                  />
                 </a>
               </div>
             </div>
@@ -34,12 +45,20 @@
             </div>
             <div class="funding">
               <div class="item white-bg logo--swan">
-                <a href="https://www.swanforlife.com" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.swanforlife.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/swan.png" alt="SWAN" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.providus.mu" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.providus.mu"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/providus.png" alt="Providus" />
                 </a>
               </div>
@@ -54,32 +73,56 @@
             </div>
             <div class="funding">
               <div class="item">
-                <a href="https://www.sdworx.com/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.sdworx.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/sd-worx.png" alt="SD Worx" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://teamonite.mu" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://teamonite.mu"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/teamonite.png" alt="Teamonite.mu" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.9thbit.co.za" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.9thbit.co.za"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/9thbit.png" alt="9th Bit" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://eventstore.org" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://eventstore.org"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/event-store.png" alt="Event Store" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.iqera.com" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.iqera.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/iqera.png" alt="iQera" />
                 </a>
               </div>
               <div class="item">
-                <a href="www.synthesis.co.za" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.synthesis.co.za"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/synthesis.png" alt="Synthesis" />
                 </a>
               </div>
@@ -95,17 +138,29 @@
 
             <div class="funding">
               <div class="item">
-                <a href="https://corshamscience.com/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://corshamscience.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/corsham.png" alt="Corsham" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://group.net2be.com/about/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://group.net2be.com/about/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/nettobe.png" alt="NetToBe" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.spoonconsulting.com" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.spoonconsulting.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/spoon.png" alt="Spoon Consulting" />
                 </a>
               </div>
@@ -139,32 +194,59 @@
             </div>
             <div class="funding">
               <div class="item">
-                <a href="https://www.aerow.group" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.aerow.group"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/aerow.png" alt="Aerow ECM" />
                 </a>
               </div>
               <div class="item">
-                <a href="http://www.ncb.mu" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="http://www.ncb.mu"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/ncb.png" alt="National Computer Board" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.astek.mu/en/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.astek.mu/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/astek.png" alt="Astek Mauritius" />
                 </a>
               </div>
               <div class="item">
-                <a href="http://www.ios.mu/" target="_blank" rel="noopener noreferrer">
-                  <img src="/funding/ios.png" alt="IOS Indian Ocean Software Ltd" />
+                <a
+                  href="http://www.ios.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/funding/ios.png"
+                    alt="IOS Indian Ocean Software Ltd"
+                  />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.frci.net" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.frci.net"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/frci.png" alt="FRCI" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.graphicstemple.io/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.graphicstemple.io/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/gt.png" alt="Graphics Temple" />
                 </a>
               </div>
@@ -186,12 +268,20 @@
             <div class="title-package speaker">Speaker</div>
             <div class="funding">
               <div class="item">
-                <a href="https://www.ceridian.com" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.ceridian.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/ceridian.png" alt="Ceridian" />
                 </a>
               </div>
               <div class="item">
-                <a href="https://ringier.com/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://ringier.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/ringier.png" alt="ringier" />
                 </a>
               </div>
@@ -202,12 +292,23 @@
             <div class="title-package media">Media Partner</div>
             <div class="funding">
               <div class="item logo--lasentinelle">
-                <a href="https://www.lasentinelle.mu/" target="_blank" rel="noopener noreferrer">
-                  <img src="/funding/lasentinelle.svg" alt="La Sentinelle Ltd." />
+                <a
+                  href="https://www.lasentinelle.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src="/funding/lasentinelle.svg"
+                    alt="La Sentinelle Ltd."
+                  />
                 </a>
               </div>
               <div class="item logo--ictio">
-                <a href="https://ict.io/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://ict.io/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/ictio.png" alt="ict.io" />
                 </a>
               </div>
@@ -218,7 +319,11 @@
             <div class="title-package internet">Internet</div>
             <div class="funding">
               <div class="item">
-                <a href="https://www.rogerscapital.mu/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://www.rogerscapital.mu/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src="/funding/rogers-capital.png" alt="Rogers Capital" />
                 </a>
               </div>
@@ -628,7 +733,6 @@ export default {};
           margin: 0 20px;
         }
       }
-
 
       .funding {
         .item {
